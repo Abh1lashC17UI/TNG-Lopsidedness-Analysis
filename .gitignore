@@ -1,0 +1,17 @@
+.halo_cache/
+__pycache__/
+Avital/
+sims.TNG/
+CentralSubhalos/
+HaloReader/
+halo_exports/
+lopsidedness/
+Writing/
+Documents/
+.p_val_cache/
+
+github_key.txt
+test.py
+ihr.py
+output_parse.py
+.kateproject.notes
